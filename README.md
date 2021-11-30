@@ -19,7 +19,7 @@
 I'm angola, a new-media editor.    
 
 - 🔭 I’m currently striving for a better life in BeiJing.             
-- 📫 My E-mail: Xue53719@outlook.com          
+- 📫 My E-mail: XueXue53719@outlook.com          
 - 🔧 My Power Tools: </br>   
 ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-blue)     
 ![VS Code](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-IntelliJ%20IDEA -blue)     
